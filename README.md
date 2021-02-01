@@ -3,7 +3,7 @@ Java Program For ADT-Stack Operation
 
 This Is A Java Program For Operations Of Stack ADT
 
-Operations Performed Are :
+Operations Performed :
 
   1. Push
   
